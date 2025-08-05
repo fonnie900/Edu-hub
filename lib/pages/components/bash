@@ -1,0 +1,3 @@
+git add lib/firebase.ts pages/admin.tsx pages/social.tsx components/PostCard.tsx
+git commit -m "Add real-time chat with typing indicators, media viewer for post images, and admin avatar support"
+git push origin main
